@@ -1,0 +1,1 @@
+This repository contains code related to pre_test_interview. Each test has its own separate folder. Within each folder, you’ll find a notebook named “Data Exploratory Analysis, Model Training, and Testing”. Please access this notebook to view the code for each test.
